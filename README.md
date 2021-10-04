@@ -8,4 +8,4 @@ chmod +x unlock.sh
 
 ./unlock.sh x.x.x.x 1.1.1.1 8.8.8.8
 
-## PS: x.x.x.x替换为可以解锁NETFLIX的DNS。
+## PS: x.x.x.x替换为可以解锁NETFLIX的DNS
